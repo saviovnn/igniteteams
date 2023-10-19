@@ -37,7 +37,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 <a id="resultado"></a>
 ## :heavy_check_mark: :iphone: Resultato
 
-https://github.com/saviovnn/igniteteams/assets/68607129/5e7bc576-ffa6-4999-bce1-61d2eca267a9
+https://github.com/saviovnn/igniteteams/assets/68607129/cac38484-c226-4aec-8277-a98fa950278d
 
 <h4 align="center">
      by Savio Vianna
